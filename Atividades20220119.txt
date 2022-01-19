@@ -1,0 +1,1 @@
+Atividades 19/01/2022:- https://learngitbranching.js.org/?locale=pt_BR;- Criar reposit—rio no GitHub e fazer commit;- Fazer fork em reposit—rio no GitHub, commitar e abrir PR.
